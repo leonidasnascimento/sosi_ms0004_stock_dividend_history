@@ -1,0 +1,55 @@
+[
+    {
+        "end_date": "30/12/2019",
+        "history": [
+            {
+                "earning": 0.99977,
+                "description": "Dividendo",
+                "date": "03/05/2019"
+            },
+            {
+                "description": "Dividendo",
+                "date": "03/05/2018",
+                "earning": 1.10863
+            },
+            {
+                "description": "Dividendo",
+                "date": "02/05/2017",
+                "earning": 0.931658
+            },
+            {
+                "description": "Dividendo",
+                "date": "13/12/2016",
+                "earning": 0.736622
+            },
+            {
+                "description": "Dividendo",
+                "date": "08/12/2016",
+                "earning": 0.736622
+            },
+            {
+                "description": "Dividendo",
+                "date": "16/05/2016",
+                "earning": 0.714538
+            },
+            {
+                "description": "Dividendo",
+                "date": "19/02/2016",
+                "earning": 0.702218
+            },
+            {
+                "earning": 0.369589,
+                "description": "Dividendo",
+                "date": "14/09/2015"
+            },
+            {
+                "date": "04/05/2015",
+                "earning": 0.30799,
+                "description": "Dividendo"
+            }
+        ],
+        "code": "CSAN3",
+        "processing_date": "30/12/2019 23:30:57",
+        "start_date": "17/10/2014"
+    }
+]
